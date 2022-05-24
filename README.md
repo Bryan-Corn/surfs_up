@@ -5,7 +5,23 @@ The written analysis has the following:
 
 ## Overview
 
-[!image](AAA)
+Weather data from 8/24/2016 to 8/23/2017 was collected from each station in Oahu Hawaii and analyzed to determine the viability and best location of a Surf and Icecream shop.
+
+![image](https://github.com/Bryan-Corn/surfs_up/blob/main/Images/img1.png)
+
+
+
+![image](https://github.com/Bryan-Corn/surfs_up/blob/main/Images/img2.png)
+
+
+
+![image](https://github.com/Bryan-Corn/surfs_up/blob/main/Images/img3.png)
+
+
+
+![image](https://github.com/Bryan-Corn/surfs_up/blob/main/Images/img4.png)
+
+
 
 Weather data was collected from each station in Hawaii and analyzed to determine the viability and best location of a Surf and Icecream shop.
 
