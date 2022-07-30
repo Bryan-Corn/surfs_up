@@ -1,4 +1,5 @@
-# surfs_up
+![image](https://github.com/Bryan-Corn/surfs_up/blob/main/Images/waves.png)
+# Surfs Up!
 
 ## Overview:
 
